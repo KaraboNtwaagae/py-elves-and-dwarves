@@ -20,4 +20,3 @@ class ElfRanger(Elf):
             f"{self.nickname} has bow of the "
             f"{self._bow_level} level"
         )
-    
